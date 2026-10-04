@@ -1,10 +1,20 @@
 ## Hi there 👋
 
-<!--
-**sushmaakg/sushmaakg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sushma**, a data professional based in India.
 
-I’m a data professional who has worn almost every hat in the data space—from engineering and modeling to analytics and strategy.
 
-In my free time, I love tinkering with personal projects and testing out crazy ideas that excite me. I’m constantly challenging myself to solve new problems—mostly just to keep my brain running! 🧠
+I work with data day in, day out—having worn pretty much every hat 🎩 across the data spectrum over the years.
 
-This is my personal space to document whatever I'm learning, experimenting with, or building. (And yes, this is also my attempt to reduce my screen time!)
+
+In my free time, I tinker with personal projects and test out crazy ideas that excite me.
+
+
+I love challenging myself to solve random problems, mostly just to keep my brain running 🧠.
+
+
+This repository is my personal space to document whatever I'm learning, experimenting with, or building. (And yes, this is also my attempt to cut down on screen time!).
+
+**Fun Facts:**
+* Favorite way to unwind: 📚 Reading , Listening to Music 🎶
+* Currently learning: Technical Analysis of Stocks 📈
+* Hobbies: 👩🏻‍🍳 Baking, Badminton 🏸
