@@ -12,7 +12,7 @@ In my free time, I tinker with personal projects and test out crazy ideas that e
 I love challenging myself to solve random problems, mostly just to keep my brain running 🧠.
 
 
-This repository is my personal space to document whatever I'm learning, experimenting with, or building. (And yes, this is also my attempt to cut down on screen time!).
+This repository is my personal space to document whatever I'm learning, experimenting with, or building.
 
 **Fun Facts:**
 * Favorite way to unwind: 📚 Reading , Listening to Music 🎶
